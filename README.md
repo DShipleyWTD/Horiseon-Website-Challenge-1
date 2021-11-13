@@ -11,6 +11,6 @@ A website that offers Digital Marketing and SEO Services.
 https://dshipleywtd.github.io/Horiseon-Website-Challenge-1/
 
 ## Contribution
-Made with ❤️ Doug Shipley
+Made with ❤️  by Doug Shipley
 
 ### © 2019 Horiseon Social Solution Services, Inc.
