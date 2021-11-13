@@ -16,6 +16,8 @@ body {
     background-color: var(--tertiary-color)
 }
 
+/* header Style Start */
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -53,11 +55,14 @@ a {
     color: var(--primary-color);
     text-decoration: none;
 }
+/* Header Style End */
 
+/* Style all Paragraphs */
 p {
     font-size: 16px;
 }
 
+/* Hero Syle Start */
 .hero {
     height: 800px;
     width: 100%;
@@ -83,6 +88,9 @@ p {
     margin-left: 20px;
 }
 
+/* Hero style End*/
+
+/* Aside Style Start */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -142,6 +150,7 @@ p {
     max-width: 150px;
 }
 
+/* Section Style Start */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -195,7 +204,9 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+/* Section Style End */
 
+/* Footer Style Start */
 .footer {
     padding: 30px;
     clear: both;
@@ -206,3 +217,4 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+/* Footer Style End */
